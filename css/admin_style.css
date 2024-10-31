@@ -1,0 +1,17 @@
+/* 
+    Created on : 23 févr. 2014, 11:18:00
+    Author     : Pierre-André
+*/
+.icon-logo{
+    height:50px;
+    width:50px;
+    float:left;
+    margin-right:10px;
+    margin-top:-1em;
+}
+.reader-group{
+    margin-bottom:30px;
+}
+.reader-group h3{
+    margin-top:2em;
+}
